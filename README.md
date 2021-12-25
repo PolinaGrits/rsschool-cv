@@ -1,1 +1,1 @@
-# rsschool-cv
+https://PolinaGrit.github.io/rsschool-cv/cv
