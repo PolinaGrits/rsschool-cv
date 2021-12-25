@@ -39,9 +39,9 @@ function factorial(n)
 ## Experience
 ---
 ## Education
-#### * [JavaScript] (https://learn.javascript.ru/)
-#### * [HTML & CSS] (https://www.udemy.com/course/webdeveloper/)
-#### * [JavaScript] (https://https://www.udemy.com/course/javascript_full/.javascript.ru/)
+#### * [JavaScript](https://learn.javascript.ru/)
+#### * [HTML & CSS](https://www.udemy.com/course/webdeveloper/)
+#### * [JavaScript](https://https://www.udemy.com/course/javascript_full/.javascript.ru/)
 ---
 ## English
 #### B1
